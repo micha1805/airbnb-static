@@ -1,12 +1,12 @@
 #footer{
-  color: #CCCCCC;
+  color: $gray-lighter;
   padding-top: 50px;
   padding-bottom: 60px;
-  background-color: grey;
-}
+  background-color: $gray;
 
-#footer a{
-  color: #CCCCCC;
-  font-size: 60px;
-  margin-left: 3  0px;
+   a{
+    color: $gray-lighter;
+    font-size: 60px;
+    margin-left: 3  0px;
+  }
 }
